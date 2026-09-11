@@ -1,0 +1,16 @@
+# Stone Powers SMP
+
+# Players receive a random stone the first time they join.
+transfer-on-kill: true
+
+# Hearts
+starting-hearts: 10
+max-hearts: 20
+hearts-per-kill: 1
+hearts-lost-on-death: 1
+
+# Ability cooldown in ticks (20 ticks = 1 second)
+ability-cooldown-ticks: 100
+
+resource-pack:
+  enabled: true

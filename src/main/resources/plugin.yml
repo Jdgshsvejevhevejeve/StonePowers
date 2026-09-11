@@ -1,0 +1,14 @@
+name: StonePowers
+version: 1.0.0
+main: me.bogeyman.stonepowers.Main
+api-version: '1.21.11'
+author: Mr_BOGEYMAN
+description: Stone-based SMP powers with a bundled resource pack.
+commands:
+  stone:
+    description: Stone Powers admin and player command
+    usage: /stone <info|giveall|give|reroll|reload>
+permissions:
+  stonepowers.admin:
+    description: Admin commands for StonePowers
+    default: op

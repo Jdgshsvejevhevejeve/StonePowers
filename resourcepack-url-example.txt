@@ -1,0 +1,4 @@
+Optional server.properties example:
+resource-pack=<YOUR_DIRECT_ZIP_URL>
+resource-pack-sha1=<SHA1_OF_THE_RESOURCEPACK_ZIP>
+require-resource-pack=false
